@@ -17,33 +17,22 @@ Um número decimal que representa o saldo atualizado na conta bancária após o 
 ## Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-Entrada	Saída
-1000
-500
-200	Saldo atualizado na conta: 1300.0
-100
-10
-50	Saldo atualizado na conta: 60.0
-4000
-1500
-200	Saldo atualizado na conta: 5300.0
+
+| Entrada	    | Saída                 	   |
+|:------------|:----------------------------------|
+| 1000        | Saldo atualizado na conta: 1300.0 |
+| 500        | 
+| 200	        |
+
+| Entrada		   | Saída                 	        |
+|:------------------|:----------------------------------|
+| 100               | Saldo atualizado na conta: 60.0 |
+| 10                                             
+| 50	                                          |
 
 
-| Entrada		                                    | Saída                 	           |
-|:---------------------------------------------|:----------------------------------|
-| 1000                                          | Saldo atualizado na conta: 1300.0 |
-| 500                                                                              
-| 200	                                                                             |
-
-| Entrada		                                | Saída                 	        |
-|:---------------------------------------------|:----------------------------------|
-| 100                                           | Saldo atualizado na conta: 60.0 |
-| 10                                                                                
-| 50	                                                                             |
-
-
-| Entrada		                               | Saída                 	           |
-|:---------------------------------------------|:----------------------------------|
-| 4000                                         | Saldo atualizado na conta: 5300.0 |
-| 1500                                                                              
-| 200	                                                                             |
+| Entrada		   | Saída                 	           |
+|:-----------------|:----------------------------------|
+| 4000             | Saldo atualizado na conta: 5300.0 |
+| 1500                                           
+| 200	                                          |
